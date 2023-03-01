@@ -59,3 +59,9 @@
   padding-top: 2vh;
   padding-bottom: 2vh;
 }
+.footer{
+  background-color: gray;
+  padding: 3vh;
+  text-align: center;
+
+}
